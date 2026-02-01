@@ -1,7 +1,5 @@
-# Maximum Clique Detection in Graphs
-## MIPS Assembly Implementation
+# Maximum Clique Detection in Graphs Using MIPS Assembly 
 
-A complete implementation of maximum clique detection algorithm in MIPS assembly language for graph analysis.
 
 ---
 
